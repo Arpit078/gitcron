@@ -9,8 +9,11 @@
   "author": "Arpit078",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.0.3",
+    "@notionhq/client": "^2.2.14",
+    "dotenv": "^16.3.1",
     "express": "^4.18.2",
-    "googleapis": "^110.0.0"
+    "googleapis": "^110.0.0",
+    "highlight.js": "^11.9.0",
+    "notion-database-parser": "^0.0.2"
   }
 }
