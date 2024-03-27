@@ -316,9 +316,9 @@ importPages().then(
   );
   
 
-  child_process.exec('gitpush.bat', function(error, stdout, stderr) {
-  console.log(error);
-  });
+  // child_process.exec('gitpush.bat', function(error, stdout, stderr) {
+  // console.log(error);
+  // });
   console.log(`Transformed ${output.length} pages to ${transformedOutput}`);
 }
 );

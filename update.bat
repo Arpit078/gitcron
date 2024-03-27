@@ -1,24 +1,24 @@
 node app
-cd "D:\pet_projects\Arpit078.github.io\twitterBot" 
-node index
+@REM cd "D:\pet_projects\Arpit078.github.io\twitterBot" 
+@REM node index
 @REM this part is for the stories webapp
-cd "D:\pet_projects\short-stories\client"
-@echo off
-setlocal EnableDelayedExpansion
+@REM cd "D:\pet_projects\short-stories\client"
+@REM @echo off
+@REM setlocal EnableDelayedExpansion
 
-REM Generate a random number between 0 and 92
-set /a "n=!random! %% 93"
+@REM REM Generate a random number between 0 and 92
+@REM set /a "n=!random! %% 93"
 
-REM Create or overwrite the JavaScript file (no.js) with the generated constant
-(
-    echo const idx = !n!
-) > no.js
+@REM REM Create or overwrite the JavaScript file (no.js) with the generated constant
+@REM (
+@REM     echo const idx = !n!
 
-REM Git commands to commit the changes and push to the repository
+@REM REM Git commands to commit the changes and push to the repository
+git pull
 git add *
-git commit -m "Update no.js with random number !n!"
+git commit -m "commit from batch file"
 git push
 
-echo "JavaScript file generated with const idx = !n! and changes pushed to the repository."
+@REM echo "JavaScript file generated with const idx = !n! and changes pushed to the repository."
 
 
