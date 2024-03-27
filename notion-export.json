@@ -3,7 +3,7 @@
     "object": "page",
     "id": "a3842b70-d3b0-4874-8262-c9c011f540fe",
     "created_time": "2024-03-25T09:51:00.000Z",
-    "last_edited_time": "2024-03-25T09:56:00.000Z",
+    "last_edited_time": "2024-03-27T18:43:00.000Z",
     "created_by": {
       "object": "user",
       "id": "0d1ef855-75d6-4bdb-8070-39dc3dc02cef"
@@ -64,7 +64,7 @@
           "page_id": "a3842b70-d3b0-4874-8262-c9c011f540fe"
         },
         "created_time": "2024-03-25T09:51:00.000Z",
-        "last_edited_time": "2024-03-25T09:55:00.000Z",
+        "last_edited_time": "2024-03-27T18:43:00.000Z",
         "created_by": {
           "object": "user",
           "id": "0d1ef855-75d6-4bdb-8070-39dc3dc02cef"
@@ -81,7 +81,7 @@
             {
               "type": "text",
               "text": {
-                "content": "Rougly a month now for the last post. Well I was busy with some personal commitments and will be busy for a while so I guess there will be fewer posts for a while. Some update regarding the PDC software I was working on, The backend part of the software is completed. It was a hassle to figure out that you needed to synchronise threads :) didn’t know it before and had to break my head figuring it out. Then after that it was MySQL connector in cpp damn vscode it had to give up at the end of the project??!  It could not link the sql libraries and we had to finally shift to Visual Studio, I feel it is somewhat of a downgrade from visual studio, just my personal opinion.",
+                "content": "Roughly a month now for the last post. Well I was busy with some personal commitments and will be busy for a while so I guess there will be fewer posts for a while. Some update regarding the PDC software I was working on, The backend part of the software is completed. It was a hassle to figure out that you needed to synchronise threads :) didn’t know it before and had to break my head figuring it out. Then after that it was MySQL connector in cpp damn vscode it had to give up at the end of the project??!  It could not link the sql libraries and we had to finally shift to Visual Studio, I feel it is somewhat of a downgrade from VS code, just my personal opinion.",
                 "link": null
               },
               "annotations": {
@@ -92,7 +92,7 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "Rougly a month now for the last post. Well I was busy with some personal commitments and will be busy for a while so I guess there will be fewer posts for a while. Some update regarding the PDC software I was working on, The backend part of the software is completed. It was a hassle to figure out that you needed to synchronise threads :) didn’t know it before and had to break my head figuring it out. Then after that it was MySQL connector in cpp damn vscode it had to give up at the end of the project??!  It could not link the sql libraries and we had to finally shift to Visual Studio, I feel it is somewhat of a downgrade from visual studio, just my personal opinion.",
+              "plain_text": "Roughly a month now for the last post. Well I was busy with some personal commitments and will be busy for a while so I guess there will be fewer posts for a while. Some update regarding the PDC software I was working on, The backend part of the software is completed. It was a hassle to figure out that you needed to synchronise threads :) didn’t know it before and had to break my head figuring it out. Then after that it was MySQL connector in cpp damn vscode it had to give up at the end of the project??!  It could not link the sql libraries and we had to finally shift to Visual Studio, I feel it is somewhat of a downgrade from VS code, just my personal opinion.",
               "href": null
             }
           ],
